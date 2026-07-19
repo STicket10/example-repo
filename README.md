@@ -44,6 +44,7 @@ python holiday.py
 
 ## Example Output
 
+```text
 Available cities:
 Cape Town
 OR Tambo
@@ -62,3 +63,4 @@ Hotel cost     : R2,400.00
 Car rental cost: R2,400.00
 -----------------------------
 Total holiday cost: R6,300.00
+```
